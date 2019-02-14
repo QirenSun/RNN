@@ -1,3 +1,3 @@
 # Character-Level LSTM in PyTorch
 
-![image]()
+![image](https://github.com/QirenSun/RNN/blob/master/RNN.PNG)
